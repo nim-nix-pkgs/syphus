@@ -9,7 +9,7 @@
   
   inputs.src-syphus-0_4.flake = false;
   inputs.src-syphus-0_4.owner = "makingspace";
-  inputs.src-syphus-0_4.ref   = "refs/tags/0.4";
+  inputs.src-syphus-0_4.ref   = "0_4";
   inputs.src-syphus-0_4.repo  = "syphus";
   inputs.src-syphus-0_4.type  = "github";
   
